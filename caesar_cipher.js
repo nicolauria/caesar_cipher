@@ -1,4 +1,4 @@
-const caesarShift = (text, shiftDirection, numShifts) => {
+const caesarCipher = (text, shiftDirection, numShifts) => {
     const alphabet = 'abcdefghijklmnopqrstuvwxyz';
     let result = '';
 
@@ -21,4 +21,4 @@ const caesarShift = (text, shiftDirection, numShifts) => {
     return result;
 }
 
-console.log(caesarShift('hello', 'left', 5))
+module.exports = caesarCipher;

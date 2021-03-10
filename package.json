@@ -1,0 +1,24 @@
+{
+  "name": "zennify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caesar_cipher.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolauria/zennify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolauria/zennify/issues"
+  },
+  "homepage": "https://github.com/nicolauria/zennify#readme"
+}
